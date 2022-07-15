@@ -1,0 +1,94 @@
+hr {
+    height: 1px;
+    background-color: #E70E6B;
+}
+
+
+
+.home {
+    color: white;
+    display: grid;
+    justify-content: center;
+    margin-top: 25vh;
+    text-align: center;
+}
+
+.landing {
+    height: 80vh;
+}
+
+.why {
+    height: 100vh;
+}
+
+.whys {
+    display: flex;
+    gap: 100px;
+    margin-top: 12%;
+    justify-content: center;
+}
+
+.square {
+    height: 300px;
+    width: 245px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    display: grid;
+    justify-content: center;
+}
+
+.protect {
+    height: 90vh;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.plan {
+    height: 90vh;
+    display: grid;
+    justify-content: center;
+}
+
+.n-plan {
+    height: 260px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: white;
+    padding-top: 0px;
+}
+
+.s-plan {
+    height: 300px;
+    width: 230px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.plan-con {
+    display: flex;
+    gap: 75px;
+}
+
+.whyvpn {
+    height: 90vh;
+}
+
+.con {
+    width: 80vw;
+    background-color: white;
+    height: 50vh;
+    border-radius: 20px;
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
+
+.vr {
+    display: flex; 
+    flex-direction: row;
+    height: 80%;
+    margin-top: 30px;
+}
